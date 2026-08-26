@@ -1,0 +1,11 @@
+{
+  "alerts": [
+    {
+      "id": "global-01",
+      "type": "weather",
+      "title": "Unsettled weather in Kaunas",
+      "message": "Scattered rain predicted this week. Keep your indoor museum alternatives ready!",
+      "severity": "info"
+    }
+  ]
+}

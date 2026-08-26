@@ -1,0 +1,302 @@
+[
+  {
+    "itinerary": {
+      "destination": "Kaunas, Lithuania",
+      "duration": 3,
+      "budget_limit": 150.0,
+      "has_isic": true,
+      "days": [
+        {
+          "day": 1,
+          "mainstream_cost": 62.5,
+          "student_cost": 41.55,
+          "activities": [
+            {
+              "time": "08:00",
+              "activity": "Kaunas City Hostel Stay",
+              "location": "Laisvės al. 90",
+              "mainstream_cost": 20.0,
+              "student_cost": 16.0,
+              "description": "Premium student hostel in Laisvės Avenue."
+            },
+            {
+              "time": "09:00",
+              "activity": "City Transit (2 rides)",
+              "location": "Kaunas Bus/Trolleybus Network",
+              "mainstream_cost": 3.0,
+              "student_cost": 0.6,
+              "description": "Local transit to travel between highlights."
+            },
+            {
+              "time": "10:30",
+              "activity": "Visit M. K. Čiurlionis National Art Museum (Rerouted: Rain disruption)",
+              "location": "V. Putvinskio g. 55, Kaunas",
+              "mainstream_cost": 6.0,
+              "student_cost": 3.0,
+              "description": "Safety detour due to: Rain disruption. Original destination was: Explore Oakwood Park (Ąžuolynas)."
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch at Pizza Express",
+              "location": "Laisvės al. 56",
+              "mainstream_cost": 8.0,
+              "student_cost": 6.8,
+              "description": "Delicious hot pizza with students' discount."
+            },
+            {
+              "time": "15:00",
+              "activity": "Explore Old Town & Town Hall Square",
+              "location": "Rotušės aikštė",
+              "mainstream_cost": 0.0,
+              "student_cost": 0.0,
+              "description": "Beautiful historic square featuring the 'White Swan' Town Hall, gothic houses, and street cafes."
+            },
+            {
+              "time": "17:00",
+              "activity": "Coffee Break at Vero Cafe",
+              "location": "Laisvės alėja",
+              "mainstream_cost": 3.5,
+              "student_cost": 3.15,
+              "description": "Unwind and work on travel notes."
+            },
+            {
+              "time": "19:00",
+              "activity": "Dinner at Talutti Bakes 'n' Shakes",
+              "location": "Vasario 16-osios g. 2",
+              "mainstream_cost": 12.0,
+              "student_cost": 10.8,
+              "description": "Famous hearty student meals and thick milkshakes."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "mainstream_cost": 60.0,
+          "student_cost": 39.0,
+          "activities": [
+            {
+              "time": "08:00",
+              "activity": "Kaunas City Hostel Stay",
+              "location": "Laisvės al. 90",
+              "mainstream_cost": 20.0,
+              "student_cost": 16.0,
+              "description": "Premium student hostel in Laisvės Avenue."
+            },
+            {
+              "time": "09:00",
+              "activity": "City Transit (2 rides)",
+              "location": "Kaunas Bus/Trolleybus Network",
+              "mainstream_cost": 3.0,
+              "student_cost": 0.6,
+              "description": "Local transit to travel between highlights."
+            },
+            {
+              "time": "10:30",
+              "activity": "Visit Kaunas Castle Museum",
+              "location": "Pilies g. 17, Kaunas",
+              "mainstream_cost": 4.0,
+              "student_cost": 2.0,
+              "description": "50% off entrance fee to the medieval castle exhibition."
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch at Pizza Express",
+              "location": "Laisvės al. 56",
+              "mainstream_cost": 8.0,
+              "student_cost": 6.8,
+              "description": "Delicious hot pizza with students' discount."
+            },
+            {
+              "time": "15:00",
+              "activity": "Explore Santaka Park & Confluence",
+              "location": "Pilies g. 1",
+              "mainstream_cost": 0.0,
+              "student_cost": 0.0,
+              "description": "The beautiful park where Lithuania's two largest rivers merge."
+            },
+            {
+              "time": "17:00",
+              "activity": "Coffee Break at Vero Cafe",
+              "location": "Laisvės alėja",
+              "mainstream_cost": 3.5,
+              "student_cost": 3.15,
+              "description": "Unwind and work on travel notes."
+            },
+            {
+              "time": "19:00",
+              "activity": "Dinner at Talutti Bakes 'n' Shakes",
+              "location": "Vasario 16-osios g. 2",
+              "mainstream_cost": 12.0,
+              "student_cost": 10.8,
+              "description": "Famous hearty student meals and thick milkshakes."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "mainstream_cost": 60.0,
+          "student_cost": 39.0,
+          "activities": [
+            {
+              "time": "08:00",
+              "activity": "Kaunas City Hostel Stay",
+              "location": "Laisvės al. 90",
+              "mainstream_cost": 20.0,
+              "student_cost": 16.0,
+              "description": "Premium student hostel in Laisvės Avenue."
+            },
+            {
+              "time": "09:00",
+              "activity": "City Transit (2 rides)",
+              "location": "Kaunas Bus/Trolleybus Network",
+              "mainstream_cost": 3.0,
+              "student_cost": 0.6,
+              "description": "Local transit to travel between highlights."
+            },
+            {
+              "time": "10:30",
+              "activity": "Visit Ninth Fort Museum",
+              "location": "Žemaičių pl. 73",
+              "mainstream_cost": 5.0,
+              "student_cost": 2.5,
+              "description": "50% discount on historical museum and underground fort tour."
+            },
+            {
+              "time": "13:00",
+              "activity": "Lunch at Pizza Express",
+              "location": "Laisvės al. 56",
+              "mainstream_cost": 8.0,
+              "student_cost": 6.8,
+              "description": "Delicious hot pizza with students' discount."
+            },
+            {
+              "time": "15:00",
+              "activity": "Explore Pažaislis Monastery Trail",
+              "location": "T. Masiulio g. 31",
+              "mainstream_cost": 0.0,
+              "student_cost": 0.0,
+              "description": "Scenic walk along the reservoir shoreline with views of baroque monastery."
+            },
+            {
+              "time": "17:00",
+              "activity": "Coffee Break at Vero Cafe",
+              "location": "Laisvės alėja",
+              "mainstream_cost": 3.5,
+              "student_cost": 3.15,
+              "description": "Unwind and work on travel notes."
+            },
+            {
+              "time": "19:00",
+              "activity": "Dinner at Talutti Bakes 'n' Shakes",
+              "location": "Vasario 16-osios g. 2",
+              "mainstream_cost": 12.0,
+              "student_cost": 10.8,
+              "description": "Famous hearty student meals and thick milkshakes."
+            }
+          ]
+        }
+      ],
+      "financials": {
+        "total_mainstream_cost": 182.52,
+        "total_student_cost": 119.55,
+        "savings_value": 62.97,
+        "savings_percentage": 34.5
+      },
+      "erasmus_perks": [
+        {
+          "partner": "Ryanair",
+          "discount_desc": "10% off flights & free checked-in bag",
+          "criteria": "Active ESNcard registered on ESN website"
+        },
+        {
+          "partner": "FlixBus",
+          "discount_desc": "10-15% discount vouchers for student trips",
+          "criteria": "ESNcard holder single-use code"
+        },
+        {
+          "partner": "ESN Kaunas Local Partners",
+          "discount_desc": "Free entry to weekly cultural events and ESN parties",
+          "criteria": "Erasmus student registration or ESNcard"
+        }
+      ]
+    },
+    "visual_journey": {
+      "video_path": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "overlays": [
+        {
+          "time_seconds": 1,
+          "title": "Welcome to Kaunas!",
+          "subtitle": "Arriving at the historic Laisvės Alėja",
+          "cost": "Free walking route",
+          "saving": "Saved €5.00 on guided tours"
+        },
+        {
+          "time_seconds": 5,
+          "title": "M. K. Čiurlionis Art Museum",
+          "subtitle": "Rerouted indoor art collection detour",
+          "cost": "€3.00 (Student Ticket)",
+          "saving": "Saved €3.00 (50% ISIC Discount)"
+        },
+        {
+          "time_seconds": 9,
+          "title": "Cozy Vero Cafe Break",
+          "subtitle": "Hot flat white at Vero Cafe",
+          "cost": "€3.15 (ISIC Discount)",
+          "saving": "Saved €0.35 (10% Discount)"
+        },
+        {
+          "time_seconds": 13,
+          "title": "Beautiful Sunset at Santaka Park",
+          "subtitle": "Watching the Nemunas and Neris rivers merge",
+          "cost": "Free Attraction",
+          "saving": "Saved €10.00 compared to mainstream paid cruises"
+        }
+      ]
+    },
+    "safety_backbone": {
+      "sentiment_summary": "Scanned Grok API: Hazard Sentiment -0.75 (weather)",
+      "news_headline": "Severe rains and heavy thunder warnings issued for Kaunas County tomorrow afternoon.",
+      "alerts": [
+        {
+          "id": "alert-weather-01",
+          "type": "weather_warning",
+          "title": "Severe Rain Forecasted",
+          "message": "Heavy rain is expected tomorrow afternoon. We suggest shifting outdoor park walks to indoor cultural museum visits.",
+          "severity": "medium"
+        }
+      ],
+      "applied_modifications": [
+        {
+          "original": "Explore Oakwood Park (Ąžuolynas)",
+          "rerouted_to": "Visit M. K. Čiurlionis National Art Museum",
+          "reason": "Rain disruption safety rerouting"
+        }
+      ]
+    },
+    "monetization": {
+      "tier": "Free",
+      "show_ads": true,
+      "unlocked_features": [
+        "Compound Student Savings Analysis",
+        "Silent Safety Backbone (Active Alert Rerouting)",
+        "Sequential Visual Journey Video Sync"
+      ],
+      "ads": [
+        {
+          "id": "ad-ryanair",
+          "title": "Fly to Lithuania for Less!",
+          "content": "Ryanair offers 10% off flights and a free check-in bag for ESNcard holders. Book now!",
+          "action_url": "https://www.ryanair.com",
+          "image_url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&auto=format&fit=crop&q=60"
+        },
+        {
+          "id": "ad-hostelworld",
+          "title": "Kaunas City Hostel",
+          "content": "Sleep in the heart of Laisvės Alėja. Get a 20% discount using code: ESCKAUNAS20",
+          "action_url": "https://www.hostelworld.com",
+          "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=600&auto=format&fit=crop&q=60"
+        }
+      ]
+    }
+  }
+]
