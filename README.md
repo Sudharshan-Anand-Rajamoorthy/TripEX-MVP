@@ -10,26 +10,11 @@ TripEX is an intelligent, multi-agent travel planning assistant designed specifi
 
 Here is an overview of the TripEX experience:
 
-```
-+------------------------------------------------------------+
-|  TripEX Dashboard                                          |
-|  +------------------+  +------------------+  +-----------+  |
-|  | Budget Optimizer |  | Visual Journey   |  | Safety    |  |
-|  | [Destination]    |  | [ Video Player ] |  | Alerts    |  |
-|  | [Budget (€)]     |  |                  |  | (Active)  |  |
-|  +------------------+  +------------------+  +-----------+  |
-+------------------------------------------------------------+
-
-
-
-
 <img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/6bcb3f40-e86d-4369-ae0c-c01f83e6c303" />
 
 <img width="1917" height="1053" alt="image" src="https://github.com/user-attachments/assets/d5d0746c-9a38-4249-bb33-376e6efd5ff2" />
 
 <img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/2a8db4da-95dc-4960-b217-46c18fd23507" />
-
-```
 
 ---
 
