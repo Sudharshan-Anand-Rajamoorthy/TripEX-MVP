@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { BookOpen, Upload, Share2, Smile, Download, Check } from 'lucide-react';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:8000' : 'https://tripex-mvp.onrender.com');
 
 interface JourneyJournalProps {
   hasIsic: boolean;
